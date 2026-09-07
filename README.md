@@ -21,7 +21,7 @@ A clean and interactive Rock, Paper, Scissors game that lives directly in your b
 
 | Game View | Win / Lose State |
 | :---: | :---: |
-| <img src="image.png" alt="Game Board" width="320"/>
+| <img src="image.png" alt="Game Board" width="320"/> | <img src="WIN-LOSE.png" alt="win-lose state" width="320"/>
 ## Make your own
 
 > Building your own version of classic web games is a great way to master basic DOM events and JavaScript control flow.
