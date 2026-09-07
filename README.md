@@ -21,8 +21,7 @@ A clean and interactive Rock, Paper, Scissors game that lives directly in your b
 
 | Game View | Win / Lose State |
 | :---: | :---: |
-| <img src="./assets/preview-1.png" alt="Game Board" width="320"/> | <img src="./assets/preview-2.png" alt="Match Outcome" width="320"/> |
-
+| <img src="image.png" alt="Game Board" width="320"/>
 ## Make your own
 
 > Building your own version of classic web games is a great way to master basic DOM events and JavaScript control flow.
@@ -30,4 +29,4 @@ A clean and interactive Rock, Paper, Scissors game that lives directly in your b
 1. Clone this repo with:
 
 ```bash
-git clone [https://github.com/your-username/roshambo.git](https://github.com/your-username/roshambo.git)
+git clone https://github.com/iszubairkhan/roshambo.git
